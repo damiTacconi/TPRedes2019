@@ -18,14 +18,14 @@ public class App
 {
     public static void main( String[] args )
     {
-        /*Scanner scanner = new Scanner(System.in);
-        System.out.println("\nAGREGAR IP: ");
-        String ip = scanner.nextLine();
-        System.out.println("\nAGREGAR PUERTO: ");
-        int port = scanner.nextInt();*/
-
         try {
-            Client client = new Client("192.168.0.8" , 3000);
+            Scanner scanner = new Scanner(System.in);
+            System.out.print("\nAGREGAR IP: ");
+            String ip = scanner.nextLine();
+            System.out.print("\nAGREGAR PUERTO: ");
+            int port = scanner.nextInt();
+
+            Client client = new Client(ip , port);
             client.start();
         }catch (UnknownHostException e) {
             System.out.println("\nNO SE ENCONTRO EL HOST");

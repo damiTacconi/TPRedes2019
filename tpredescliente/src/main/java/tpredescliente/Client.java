@@ -20,6 +20,7 @@ public class Client{
 
     public void start()
     {
+        System.out.println("\n\t\t CONECTADO EXITOSAMENTE \n");
         this.socketRead = new SocketRead(this.socket);
         this.socketWrite = new SocketWrite(this.socket);
         this.socketRead.start();

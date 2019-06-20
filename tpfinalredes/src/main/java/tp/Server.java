@@ -21,6 +21,7 @@ public class Server implements Observer {
 
     public void start() throws IOException
     {
+        System.out.println("\n\t\tSERVIDOR INICIADO");
         ServerAccept serverAccept = new ServerAccept(this);
         Thread threadAccept = new Thread(serverAccept);
         threadAccept.start();

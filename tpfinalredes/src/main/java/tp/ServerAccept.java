@@ -29,7 +29,7 @@ class ServerAccept extends Observable implements Runnable {
         }
         catch (IOException e)
         {
-            System.out.println("SE CERRO LA CONEXION CON EL SERVIDOR");
+            System.out.println("SE CERRO LA CONEXION DEL SERVIDOR");
         }
     }
 

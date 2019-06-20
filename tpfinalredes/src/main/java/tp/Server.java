@@ -76,10 +76,10 @@ public class Server implements Observer {
     }
 
     private void write(String message , Socket socket , boolean isServerMessage) throws IOException{
-        String name = isServerMessage ? "SERVER: " : "";
+        //String name = isServerMessage ? "SERVER: " : "";
         try {
             PrintWriter out = new PrintWriter(socket.getOutputStream());
-            out.println(name + message);
+            out.println(message);
             out.flush();
         }catch (IOException e){
             socket.close();

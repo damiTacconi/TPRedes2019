@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84a3f98c-b1e6-469f-9c26-0805cffd8730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tpredescliente/src/main/java/tpredescliente/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tpredescliente/src/main/java/tpredescliente/SocketRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tpredescliente/src/main/java/tpredescliente/SocketWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tp/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tp/ServerAccept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/ServerAccept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tp/ServerReadSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tp/ServerReadSocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tp/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tp/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tp/ServerReadSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tp/ServerReadSocket.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tpredescliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tpredescliente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tpredescliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tpredescliente/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tpredescliente/src/main/java/tpredescliente/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tpredescliente/src/main/java/tpredescliente/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../tpredescliente/target/classes/tpredescliente/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tpredescliente/target/classes/tpredescliente/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tpredescliente/target/classes/tpredescliente/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../tpredescliente/target/classes/tpredescliente/Client.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
